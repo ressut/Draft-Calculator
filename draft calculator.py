@@ -17,6 +17,6 @@ draft = mass/(length*breadth)
 
 #Output
 print(f"Length: {length} Breadth: {breadth} Height: {height}")
-print(f"Surface Area: {surface_area}")
+print(f"Surface Area: {surface_area:.f}")
 print(f"Mass: {mass:.2f}")
 print(f"Draft: {draft:.2f}")
